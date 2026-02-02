@@ -5,6 +5,11 @@ Build a console-based Expense Tracker that lets you log, view, and manage expens
 
 ---
 
+## Assignment Instruction
+
+1. Accept the assignment
+2. Clone the repo on your local machine (Download)
+
 ## Requirements
 
 1. **Add Expenses**
